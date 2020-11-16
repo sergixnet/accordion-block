@@ -1,0 +1,2 @@
+.wp-block-snet-accordion+.wp-block-snet-accordion{border-top:1px solid teal;padding:1rem 0}.accordion__title{font-size:1.25rem;line-height:2rem}.accordion__title a{display:block;text-decoration:none;border:none;color:teal}.accordion__icon{display:inline-block;width:2rem;height:2rem;border:1px solid #242424;color:#242424;text-align:center;line-height:2rem;margin-right:1rem}.accordion__content{max-height:0;overflow:hidden;opacity:0;transition:all 0.2s ease}.accordion__content.is-active{opacity:1;max-height:2000px}
+
